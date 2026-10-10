@@ -222,3 +222,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Carpeta de apoyo (scripts y codigo temporal)
+open apoyo/
